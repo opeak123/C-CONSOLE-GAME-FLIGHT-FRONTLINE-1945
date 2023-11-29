@@ -19,7 +19,7 @@ Episode 1 - Title / Main Menu / Window Settings</br>
 
 Episode 2 - Title / Game Design, Details
 <img src ="https://github.com/opeak123/C-Console-game/blob/main/Main%20Menu%201945.png?raw=true">
-</br></br>
+</br>
 0.Process
 The game style is similar to Chrome Dino game and 1945 style -> https://dinorunner.com/ (Dino game)
 It's a side-scrolling style.
