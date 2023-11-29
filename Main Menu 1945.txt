@@ -1,0 +1,15 @@
+
+
+￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣(MainMenu) 메인메뉴￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
+		  │                                          │   			│		   	   │		       	              │ 
+                          │                                          │   		            │		   	   │		         	              │
+               Game Start(게임 시작) 	          Who's Made(누가 만듬?)	 How to Play(조작법)	       Check Score(스코어 확인)                  ■Exit(종료)■
+		  │ 		                       │			│			   │ 		       
+		  │ 		                       │     			│		               │		       
+             Charcter Choice(캐릭터 선택)           ■Introduce(소개)■	  	   ■Explain(설명)■	          ■Top 10 Score/Mine(최종 10/ +본인)■	
+		  │
+		  │
+	 2 Species(두 종류의 캐릭터)
+		  │
+		  │
+	      Enterence(입장)		     
