@@ -1,0 +1,38 @@
+ㅡMain Menu
+
+1.Game Start
+-When the player starts the game, 
+you can choose from two types of characters (fighters).
+
+2.Who's made
+-Email, Github
+
+3.Score
+The final scores of 10 people, including yourself, are recorded.
+
+4.Exit
+
+
+ㅡAbout this game
+
+0.Process
+The game style is similar to Chrome Dino game and 1945 style -> https://dinorunner.com/ (Dino game)
+It's a side-scrolling style.
+
+1.Player Life
+The player starts with 3 lifes, lifes are lost upon colliding with planets or enemy fighters.
+
+2.Difficulty 
+The difficulty of the game increases over time.
+
+3.Obstacles
+Asteroids and Colossal Planets: Asteroids and colossal planets sporadically emerge from the map's edges.
+Enemy Fighters: They pose a threat to the player by firing lasers and bullets.
+
+4.Score System
+Points accumulate over time, even without active combat.
+Additional points are awarded for annihilating planets or enemy fighters
+
+	
+4.Game Over
+The game ends when the player exhausts all lifes.
