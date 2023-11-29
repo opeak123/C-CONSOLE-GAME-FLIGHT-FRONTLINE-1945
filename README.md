@@ -45,8 +45,8 @@ The game ends when the player exhausts all lifes.
 </br>
 0.게임 방식</br>
 게임 방식은 크롬 다이노 게임, 1945방식과 유사	-> https://dinorunner.com/ (다이노 게임)</br>
-횡스크롤 방식</br></br>
-
+횡스크롤 방식</br>
+</br>
 1.플레이어 목숨</br>
 플레이어는 3번의 기회를 얻으며, </br>
 적 전투기(공격을 포함), 행성 혹은 맵의 끝에 도달(충돌)하게 되면 1번의기회가 깎임.</br>
