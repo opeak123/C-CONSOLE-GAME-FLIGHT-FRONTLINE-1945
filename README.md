@@ -65,3 +65,8 @@ The game ends when the player exhausts all lifes.
 </br>
 4.종료 조건</br>
 플레이어의 목숨이 0이 되면 게임 종료</br>
+
+
+</br></br></br></br>
+Episode 3 - Select Menu </br>
+
