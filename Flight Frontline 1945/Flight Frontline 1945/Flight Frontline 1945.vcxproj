@@ -127,11 +127,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="1945.c" />
+    <ClCompile Include="main.c" />
+    <ClCompile Include="ConsoleControl.c" />
+    <ClCompile Include="ConsolePaint.c" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Flight Init.h" />
-    <ClInclude Include="Flight Title.h" />
+    <ClInclude Include="ConsoleControl.h" />
+    <ClInclude Include="ConsolePaint.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

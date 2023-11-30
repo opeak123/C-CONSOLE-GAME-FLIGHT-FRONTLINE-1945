@@ -1,0 +1,51 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.37.32825.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/1/source/repos/c_console_game/flight frontline 1945/flight frontline 1945/1945.c"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "252d22f736e726904988220e2b7f804ac5437c808aa4260f8aa99d42c8aef4b1"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/1/source/repos/c_console_game/flight frontline 1945/flight frontline 1945/painttitle.h"
+          },
+          "hashes": {
+            "sha-256": "cbdbb2844cfc94bc90c2c1050701d57703a78028ee7196aaaf8f2613d26d62a5"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/1/source/repos/c_console_game/flight frontline 1945/flight frontline 1945/consolecontrol.h"
+          },
+          "hashes": {
+            "sha-256": "a30313e849f8301b3c4e169e1a38f860124fe0368f165902af4882a9bf95f226"
+          }
+        }
+      ]
+    }
+  ]
+}
